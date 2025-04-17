@@ -1,38 +1,88 @@
-Hey, I am Huang, Xuan (a.k.a. _@huxpro_). I worked on the [React Team](https://beta.reactjs.org/community/meet-the-team#react-core) at <del>Facebook</del>Meta.
+**Name:** He Xinru  
+**University:** Zhejiang Gongshang University, Major in Information Management and Information Systems  
+**GPA:** 4.21  
+**Major Ranking:** **1/216**
 
-I considered myself as a hybrid between a software engineer specifically into the programming languages theories and implementations domain (i.e. compiler, type system, type-based formal verification, virtual machine, runtime systems, garbage collection), and a creative technologiest deeply caring about many humanistic aspects (e.g. visual, sound, interaction) in UI and HCI in general.
+---
 
-I also worked on the [Hermes JavaScript Engine](https://hermesengine.dev/), some other projects under the [Reality Labs (Research)](https://tech.fb.com/ar-vr/), and [ReasonML](https://reasonml.github.io/) (now [ReScript](https://rescript-lang.org/)) efforts at Meta (Facebook).
+### Research Experience
 
-In the past, I worked on [Alitrip (Fliggy)](https://www.alitrip.com/) mobile and web apps under the [Alibaba Group](https://en.wikipedia.org/wiki/Alibaba_Group), found and lead front-end infrastructure team at an unicorn startup company [Beijing Weiying (a.k.a. WePiao, now acquired by Maoyan)](https://www.crunchbase.com/organization/beijing-weiying-technology), and helped [Ele.me (now acquired by Alibaba)](https://en.wikipedia.org/wiki/Ele.me) to upgrade their mobile web site into [the first influential PWA (progressive web app) in China](https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509).
+- **Paper:** 1 (under review)  
+- **Patent:** 0  
+- **Software Copyrights:** 0  
+- **Lab Experience:** Participated in deep learning experiments in 2023 and independently developed a cat-dog image classification project  
+- **Practical Projects:**  
+  - **Competition Projects:** Pothole detection, E-commerce category sales forecasting & inventory optimization, Credit card fraud detection, Romance store sales forecasting, Titanic survival prediction  
+  - **Course Project:** Emotion classification and feature extraction based on sentiment lexicon  
+  - **Innovation Program:** Developed a data analysis software
 
-I studied BA, Digital Media Art at [Communication University of China](https://en.wikipedia.org/wiki/Communication_University_of_China) and MS, Computer Science (with a focus on programming languages, mainly supervised by [Prof. Matthew Fluet](https://www.cs.rit.edu/~mtf/)) at [Rochester Institute of Technology](https://en.wikipedia.org/wiki/Rochester_Institute_of_Technology).
+---
 
-##### Appearence
+### Competition Experience
 
-- [React Labs: What We've Been Working On – June 2022][12] · React Blog · 2022
-- [React Without Memo][11] · [React Conf 2021](https://conf.reactjs.org/)
-- [Toward Hermes being the Default][11] · React Native Blog · 2021
-- React Native 0.64 with Hermes for iOS · [The RN Show Podcast Ep #5](https://www.callstack.com/podcast-react-native-show) · 2021
-- [Upgrading to Progressive Web Apps][9] · [JSConf China Shanghai 2017](http://2017.jsconf.cn/)
-- Building Progressive Web Apps · [CSDI Guangzhou 2017](http://www.csdisummit.com/)
-- The State of Progressive Web App · GDG IO Redux Beijing 2017
-- PWA Rehashing · Baidu HQ Beijing 2017
-- [Service Worker 101][5] · GDG DevFest Beijing 2016
-- [Progressive Web Apps][4] · QCon Shanghai 2016
-- Progressive Web App in my POV · GDG IO Redux Beijing 2016
-- [CSS Still Sucks 2015][2] · 2015
-- [JavaScript Modularization Journey][1] · 2015
+- **2022:** University Innovation Project Leader (concluded in 2024)  
+- **2023:** MathorCup Big Data Competition – Provincial First Prize  
+- **2024:**  
+  - University Innovation Project (ongoing)  
+  - MCM/ICM (COMAP) – Honorable Mention  
+  - “Hope Cup” Business Plan Competition – University Silver Prize  
+  - China International College Students’ “Internet+” Innovation and Entrepreneurship Competition – University Bronze Prize (Team Leader)  
+  - Zhejiang Gongshang University Mathematical Modeling Contest – First Prize  
+  - National Undergraduate Mathematical Contest in Modeling – Provincial Third Prize  
+  - MathorCup Big Data Competition – Provincial First Prize  
+- **2025:**  
+  - MCM/ICM (COMAP) – Pending Results  
+  - MathorCup Mathematical Application Challenge – Pending Results  
 
-[1]: //huangxuan.me/2015/07/09/js-module-7day/
-[2]: //huangxuan.me/2015/12/28/css-sucks-2015/
-[3]: //huangxuan.me/2016/06/05/pwa-in-my-pov/
-[4]: //huangxuan.me/2016/10/20/pwa-qcon2016/
-[5]: //huangxuan.me/2016/11/20/sw-101-gdgdf/
-[6]: https://yanshuo.io/assets/player/?deck=58ac8598b123db0067292f92 "PWA Rehashing"
-[7]: https://yanshuo.io/assets/player/?deck=593ad6fbfe88c2006a0a0d6d "The State of PWA"
-[8]: https://yanshuo.io/assets/player/?deck=594d673d570c357d0698a950 "Building PWA"
-[9]: //huangxuan.me/jsconfcn2017/
-[10]: https://reactnative.dev/blog/2021/10/26/toward-hermes-being-the-default
-[11]: https://youtu.be/lGEMwh32soc
-[12]: https://reactjs.org/blog/2022/06/15/react-labs-what-we-have-been-working-on-june-2022.html
+---
+
+### Coursework
+
+- **Mathematics:** Calculus I (92), Calculus II (95), Linear Algebra (98), Probability and Statistics (94), Statistics (90)  
+<br>
+
+- **Programming:** Python Programming Lab (93), Python Programming (90), Java Web Programming Lab (91), Java Web Programming (84), Data Structures and Programming Lab (90), Data Structures and Programming (89), Database Principles and Applications (90), Database Project (Excellent), Management Modeling with Matlab (96), Systems Analysis and Design (95)  
+<br>
+
+- **Machine Learning & Data Science:** Big Data Fundamentals (94), Data Science Fundamentals (98), Machine Learning (93)  
+<br>
+
+- **Operations Research & Planning:** Operations Research (82), Systems Engineering and Project Management (97)  
+<br>
+
+- **Management & Economics:** Accounting (97), Principles of Management (93), Marketing (95), Management Information Systems (94), Operations Management (94), Internet Economics (99)  
+
+---
+
+### Certifications
+
+- CET-4: 526  
+- CET-6: 539  
+- National Computer Level-2 (Python)  
+- National Computer Level-2 (Java)  
+
+---
+
+### Scholarships & Honors
+
+- **2023:** Zhejiang Provincial Government Scholarship, First-Class University Scholarship, Merit Student  
+- **2024:** Zhejiang Provincial Government Scholarship, First-Class University Scholarship, Merit Student  
+
+---
+
+### Volunteering
+
+- **Total Volunteer Hours:** 88.76 hours  
+
+---
+
+### Student Leadership
+
+- **2022–Present:** Class Learning Committee Member  
+- **2022–2023:** Member, Project Exchange Department, University Science and Technology Innovation Association  
+- **2022–2023:** Member, Office Department, English Association  
+- **2024–Present:** Vice Director, News Department, University Safety Association  
+
+---
+
+如需进一步润色为申请材料（如 CV、PS、LinkedIn 简历），我也可以帮你优化语法、风格和语言地道性。有需要可以继续告诉我哈～
